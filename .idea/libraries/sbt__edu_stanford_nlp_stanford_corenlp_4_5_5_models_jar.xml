@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: edu.stanford.nlp:stanford-corenlp:4.5.5:models:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/edu/stanford/nlp/stanford-corenlp/4.5.5/stanford-corenlp-4.5.5-models.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
