@@ -1,4 +1,4 @@
-Scala project getting most mentioned cryptos on Twitter real-time utilizing Twitter4j to get tweet
+Scala project I did to get most mentioned cryptos on Twitter real-time utilizing Twitter4j to get tweet
 
 Standford NLP for sentiment analysis, and sending data to Amazon AWS with DynamoDB. 
 
